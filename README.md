@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alipex
 - 👀 I’m interested in Linux usage
-- 🌱 I’m currently learning Linux usage and programming in C#
+- 🌱 I’m currently learning Linux usage and programming in various languages
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me: use issues or PR's
 
