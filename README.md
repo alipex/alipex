@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me: use issues or PR's
 
-**EDIT March 7th 2022: Current situation regarding the 2022 Russo-Ukranian war: I do not voice support Ukraine nor Russia.**
+**EDIT March 7th 2022: Current situation regarding the 2022 Russo-Ukranian war: I do not support Ukraine nor Russia.**
 - Russia invaded a sovereign state, unlawfully, while occuping Ukraine's territories.
 - However, Ukraine has killed thousands upon thousands of innocent people, which are not ethnically Ukranian, on their and other territories, due to them being oversensitive nationalists - and this is (unfortunately) happening from the 1920's. 
 - **All software under my ownership will be strictly neutral. Any pull requests to add anything to support either side will be denied with a passion.**
