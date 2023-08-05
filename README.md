@@ -1,4 +1,4 @@
-I will never support, but also discourage RHEL-based distributions and/or upstreams and downstreams. [See why.](https://github.com/alipex/alipex/RHEL.md)
+I will never support, but also discourage RHEL-based distributions and/or upstreams and downstreams. [See why.](https://github.com/alipex/alipex/blob/main/RHEL.md)
 
 # Welcome to my GitHub profile!
 
