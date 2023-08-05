@@ -7,9 +7,11 @@ First, [they screwed over CentOS](https://arstechnica.com/gadgets/2021/01/on-the
 (And no, [CentOS Stream is NOT a replacement!](https://arstechnica.com/gadgets/2020/12/centos-shifts-from-red-hat-unbranded-to-red-hat-beta/))
 
 Then, [they screwed over all other RHEL derivatives with the closure of their source code to the general public](https://www.redhat.com/en/blog/furthering-evolution-centos-stream).
-This forced RHEL downstream developers to essentially fix bugs with a clean-room environment. (Not a great idea, imo.)
+This forced RHEL downstream developers to essentially either "steal" source-code from Red Hat, or develop in a clean-room environment. (Not the best situation, imo.)
 
 Because of said IBM puppeteering, I cannot rely on RHEL, and/or its upstreams and/or downstreams.
+RHEL's upstream, Fedora, is not 100% bug-for-bug (BFB) compatible with RHEL, it is only a base for RHEL.
+
 Therefore, I am not going to pursue support for these platforms, and I will discourage use of said platforms.
 
 This means that if your issue concerns systems like Rocky, Alma, or even Fedora, I will not provide support, nor fix issues concerning that system.
